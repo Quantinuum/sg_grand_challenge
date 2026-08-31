@@ -1,0 +1,15 @@
+[project]
+name = "sg-grand-challenge"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    "aqora>=0.30.0",
+    "guppylang>=0.21.16",
+    "hugr-qir>=0.1.2",
+    "tool>=0.8.0",
+]
+
+[[tool.uv.index]]
+url = "https://pypi.org/simple"
