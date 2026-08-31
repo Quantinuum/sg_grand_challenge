@@ -6,15 +6,15 @@ Quantum computing submission project exploring two complementary programming app
 
 This project demonstrates quantum program development using two distinct frameworks:
 
-- **Guppy** - A Pythonic quantum-classical programming language with high-level abstractions
-- **Pytket** - A quantum circuit optimization toolkit with lower-level circuit control
+- **Guppy** - A Pythonic quantum-classical programming language with high-level abstractions.
+- **Pytket** - A quantum circuit optimization toolkit with lower-level circuit control.
 
 Both submissions target Quantinuum's H2-2E quantum processor through the AQORA (Azure Quantum Resource API) interface, with intermediate compilation via HUGR-QIR.
 
-## Softwarte
+## Software
 
 - **Guppy** - Quantum-first programming language, and now exectuble on System Model H2 via the hugr-qir compiler.
-- **Pytket** - Quantum circuit toolkit and optimizing compiler
+- **Pytket** - Quantum circuit toolkit and optimizing compiler.
 
 
 ## Getting Started
