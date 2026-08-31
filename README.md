@@ -1,6 +1,6 @@
 # Quantinuum Singapore Grand Challenge
 
-Quantum computing submission project exploring two complementary programming approaches for running quantum circuits on Quantinuum's H-Series quantum processors via the Nexus cloud platform.
+Quantum computing submission project exploring two complementary programming approaches for running quantum programs on Quantinuum'sSystems via the Nexus cloud platform.
 
 ## Overview
 
